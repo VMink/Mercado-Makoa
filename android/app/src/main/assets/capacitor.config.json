@@ -1,0 +1,6 @@
+{
+	"appId": "com.mercadomakoa.mercadomakoa",
+	"appName": "Mercado Makoa",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,381 @@
+[
+    {
+        "nombre": "Acelga",
+        "precioDisplay": 13.50,
+        "precioVariable": 13.50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "manojo",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.25PM.jpg?v=1608853776"
+    },
+    {
+        "nombre": "Aguacate",
+        "precioDisplay": 122.50,
+        "precioVariable": 122.50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.26PM_1.jpg?v=1608853836"
+    },
+    {
+        "nombre": "Ajo",
+        "precioDisplay": 15,
+        "precioVariable": 15,
+        "color": "",
+        "tiempo": "",
+        "unidad": "cabeza",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.26PM_2.jpg?v=1608853858"
+    },
+    {
+        "nombre": "Apio",
+        "precioDisplay": 22.50,
+        "precioVariable": 22.50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.28PM.jpg?v=1608853883"
+    },
+    {
+        "nombre": "Berenjena",
+        "precioDisplay": 50,
+        "precioVariable": 50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.22PM_1.jpg?v=1608855104"
+    },
+    {
+        "nombre": "Betabel",
+        "precioDisplay": 22.50,
+        "precioVariable": 22.50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.14PM.jpg?v=1608855045"
+    },
+    {
+        "nombre": "Brocoli",
+        "precioDisplay": 15.99,
+        "precioVariable": 15.99,
+        "color": "",
+        "tiempo": "",
+        "unidad": "pieza",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.29PM.jpg?v=1608853917"
+    },
+    {
+        "nombre": "Calabaza",
+        "precioDisplay": 32.50,
+        "precioVariable": 32.50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at11.30.53AM.jpg?v=1608832839"
+    },
+    {
+        "nombre": "Cebolla",
+        "precioDisplay": 20,
+        "precioVariable": 20,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2021-01-12at10.52.27PM.jpg?v=1610652265"
+    },
+    {
+        "nombre": "Cebolla Morada",
+        "precioDisplay": 25,
+        "precioVariable": 25,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.30PM.jpg?v=1608853961"
+    },
+    {
+        "nombre": "Cebolla Cambray",
+        "precioDisplay": 12.50,
+        "precioVariable": 12.50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "manojo",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.18PM.jpg?v=1608855163"
+    },
+    {
+        "nombre": "Champiñones",
+        "precioDisplay": 90,
+        "precioVariable": 90,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.16PM.jpg?v=1608855194"
+    },
+    {
+        "nombre": "Chayote",
+        "precioDisplay": 15,
+        "precioVariable": 15,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at11.30.44AM.jpg?v=1608832658"
+    },
+    {
+        "nombre": "Chayote con Espina",
+        "precioDisplay": 27.5,
+        "precioVariable": 27.5,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/379464.jpg?v=1630032302"
+    },
+    {
+        "nombre": "Chicharo",
+        "precioDisplay": 50,
+        "precioVariable": 50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2021-01-12at10.52.28PM.jpg?v=1610652307"
+    },
+    {
+        "nombre": "Chilacayote",
+        "precioDisplay": 35,
+        "precioVariable": 35,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/chilacayote.jpg?v=1630032693"
+    },
+    {
+        "nombre": "Chile Jalapeño",
+        "precioDisplay": 45,
+        "precioVariable": 45,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at11.23.49AM.jpg?v=1608832425"
+    },
+    {
+        "nombre": "Chile Poblano",
+        "precioDisplay": 45,
+        "precioVariable": 45,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.08PM.jpg?v=1608855221"
+    },
+    {
+        "nombre": "Chile Serrano",
+        "precioDisplay": 75,
+        "precioVariable": 75,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2021-01-12at10.52.32PM.jpg?v=1610652370"
+    },
+    {
+        "nombre": "Cilantro",
+        "precioDisplay": 7.99,
+        "precioVariable": 7.99,
+        "color": "",
+        "tiempo": "",
+        "unidad": "manojo",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/propiedades-del-cilantro.jpg?v=1630026525"
+    },
+    {
+        "nombre": "Coliflor",
+        "precioDisplay": 22.5,
+        "precioVariable": 22.5,
+        "color": "",
+        "tiempo": "",
+        "unidad": "pieza",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.36PM_1.jpg?v=1608854099"
+    },
+    {
+        "nombre": "Cúrcuma",
+        "precioDisplay": 100,
+        "precioVariable": 100,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/turmeric-root-and-powder.jpg?v=1630033779"
+    },
+    {
+        "nombre": "Ejotes",
+        "precioDisplay": 75,
+        "precioVariable": 75,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at11.30.50AM.jpg?v=1608832769"
+    },
+    {
+        "nombre": "Elote",
+        "precioDisplay": 10.99,
+        "precioVariable": 10.99,
+        "color": "",
+        "tiempo": "",
+        "unidad": "pieza",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.15PM.jpg?v=1608855067"
+    },
+    {
+        "nombre": "Epasote",
+        "precioDisplay": 7.99,
+        "precioVariable": 7.99,
+        "color": "",
+        "tiempo": "",
+        "unidad": "manojo",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/2350182-00-CH515Wx515H.jpg?v=1630340406"
+    },
+    {
+        "nombre": "Espárragos",
+        "precioDisplay": 126,
+        "precioVariable": 126,
+        "color": "",
+        "tiempo": "",
+        "unidad": "manojo",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.22PM.jpg?v=1608855085"
+    },
+    {
+        "nombre": "Esinaca",
+        "precioDisplay": 15,
+        "precioVariable": 15,
+        "color": "",
+        "tiempo": "",
+        "unidad": "manojo",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.38PM.jpg?v=1608854157"
+    },
+    {
+        "nombre": "Jitomate",
+        "precioDisplay": 32.50,
+        "precioVariable": 32.50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at11.23.50AM.jpg?v=1608832473"
+    },
+    {
+        "nombre": "Jitomate Cherry",
+        "precioDisplay": 22.50,
+        "precioVariable": 22.50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "domo",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.19PM.jpg?v=1608855256"
+    },
+    {
+        "nombre": "Lechuga Italiana",
+        "precioDisplay": 17.50,
+        "precioVariable": 17.50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "pieza",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.49PM.jpg?v=1608854367"
+    },
+    {
+        "nombre": "Lechuga Romana",
+        "precioDisplay": 17.50,
+        "precioVariable": 17.50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "pieza",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.51PM.jpg?v=1608854384"
+    },
+    {
+        "nombre": "Limon",
+        "precioDisplay": 30,
+        "precioVariable": 30,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.51PM_1.jpg?v=1608854423"
+    },
+    {
+        "nombre": "Nopal",
+        "precioDisplay": 12.50,
+        "precioVariable": 12.50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "6 piezas",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at11.23.47AM.jpg?v=1608832341"
+    },
+    {
+        "nombre": "Nopal Cambray",
+        "precioDisplay": 12.50,
+        "precioVariable": 12.50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "6 piezas",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.20PM.jpg?v=1608855437"
+    },
+    {
+        "nombre": "Papa Chica",
+        "precioDisplay": 17.50,
+        "precioVariable": 17.50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.59PM.jpg?v=1630028509"
+    },
+    {
+        "nombre": "Papa Grande",
+        "precioDisplay":25,
+        "precioVariable":25,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.59PM.jpg?v=1608854620"
+    },
+    {
+        "nombre": "Pepino",
+        "precioDisplay": 25,
+        "precioVariable": 25,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.00PM_1.jpg?v=1608854663"
+    },
+    {
+        "nombre": "Perejil",
+        "precioDisplay": 7.9,
+        "precioVariable": 7.9,
+        "color": "",
+        "tiempo": "",
+        "unidad": "manojo",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.02PM.jpg?v=1608854697"
+    },
+    {
+        "nombre": "Chile Pimiento Morron",
+        "precioDisplay": 45,
+        "precioVariable": 45,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.33PM.jpg?v=1608854760"
+    },
+    {
+        "nombre": "Rabano",
+        "precioDisplay": 12.50,
+        "precioVariable": 12.50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "manojo",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.08PM_1.jpg?v=1608855409"
+    },
+    {
+        "nombre": "Tomate",
+        "precioDisplay": 20,
+        "precioVariable": 20,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at11.30.45AM.jpg?v=1608832700"
+    },
+    {
+        "nombre": "Zanahoria",
+        "precioDisplay": 20,
+        "precioVariable": 20,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2021-01-12at10.52.37PM.jpg?v=1610652086"
+    }
+]
+

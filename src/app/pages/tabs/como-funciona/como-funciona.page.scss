@@ -1,0 +1,41 @@
+*{
+    font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+ion-slides{
+    height: 100%;
+}
+
+ion-slide{
+    display: flex;
+    flex-direction: column;
+}
+
+ion-slide h1{
+    color: #3B7097;
+    font-weight: 600;
+}
+
+ion-slide p{
+    max-width: 90%;
+}
+
+ion-slide img{
+    max-width: 90%;
+    height: auto;
+}
+
+ion-slide h4{
+    color: #F1C40F;
+    font-weight: 600;
+}
+
+ion-slide h4 span{
+    color: black;
+    font-weight: normal;
+}
+
+ion-slide a{
+    color: #F1C40F;
+    text-decoration: none;
+}

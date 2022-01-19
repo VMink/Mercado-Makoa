@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "Oaxaca",
+        "precioDisplay": 138,
+        "precioVariable": 138,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_4edb0358-fd19-46f0-9067-763a99ab0079.png?v=1630344819"
+    },
+    {
+        "nombre": "Panela",
+        "precioDisplay": 125,
+        "precioVariable": 125,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image.png?v=1630344759"
+    },
+    {
+        "nombre": "Manchego",
+        "precioDisplay": 206,
+        "precioVariable": 206,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_79475466-4b12-4917-acd3-2c705523ee9f.png?v=1630344775"
+    }
+]
+

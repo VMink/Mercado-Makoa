@@ -1,0 +1,17 @@
+<ion-tabs>
+  <ion-tab-bar slot="bottom">
+    <ion-tab-button tab="products">
+      <ion-icon name="storefront-outline"></ion-icon>
+      <ion-label>Productos</ion-label>
+    </ion-tab-button>
+    <ion-tab-button tab="carrito">
+      <ion-badge color="secondary" *ngIf="cart.length > 0">{{ cartItemCount | async }}</ion-badge>
+      <ion-icon name="cart-outline"></ion-icon>
+      <ion-label>Carrito</ion-label>
+    </ion-tab-button>
+    <ion-tab-button tab="como-funciona">
+      <ion-icon name="help-circle-outline"></ion-icon>
+      <ion-label>Acerda De</ion-label>
+    </ion-tab-button>
+  </ion-tab-bar>
+</ion-tabs>

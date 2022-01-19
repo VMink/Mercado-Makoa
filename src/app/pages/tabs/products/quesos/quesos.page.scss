@@ -1,0 +1,66 @@
+#products-btns{
+    margin-top: 35px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+
+#product-btn{
+    width: 108px;
+}
+
+.container-quesos{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container-quesos .quesos-card{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.container-quesos .quesos-card .quesos-card-content{
+    width: 90%;
+    border-radius: 20px;
+    box-shadow: 0px 0px 12px -8px #000000;
+    margin-bottom: 50px;
+    height: 320px;
+}
+
+.container-quesos .quesos-card .quesos-card-content .queso-img{
+    height: 180px;
+    width: 100%;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.container-quesos .quesos-card .quesos-card-content .queso-info{
+    margin-left: 10px;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
+.container-quesos .quesos-card .quesos-card-content .queso-info h1{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.container-quesos .quesos-card .quesos-card-content .queso-info p{
+    font-size: 14px;
+    margin-top: -10px;
+}
+
+.container-quesos .quesos-card .quesos-card-content .card-btns{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-top: -10px;
+}

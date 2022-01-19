@@ -1,0 +1,33 @@
+
+<app-header titulo="Mercado Makoa"></app-header>
+
+<ion-content>
+
+  <div id="products-btns">
+
+    <ion-button color="secondary" size="small" id="product-btn" fill="outline" routerLink="/tabs/products/frutas">Frutas</ion-button>
+
+    <ion-button color="secondary" size="small" id="product-btn" >Verduras</ion-button>
+
+    <ion-button color="secondary" fill="outline" size="small" id="product-btn" routerLink="/tabs/products/quesos">Quesos</ion-button>
+    
+    <ion-button color="secondary" fill="outline" size="small" id="product-btn" routerLink="/tabs/products/carnes">Carnes</ion-button>
+
+  </div>
+
+  <div class="container-verduras">
+    <div *ngFor="let verdura of verduras | filtro: productoBuscado" class="verduras-card">
+      <div class="verduras-card-content">
+        <div class="verdura-img" style.background-image="url({{ verdura.img }})"></div>
+        <div class="verdura-info">
+          <h1>{{ verdura.nombre }}</h1>
+          <p>$ {{ verdura.precioDisplay }} / {{ verdura.unidad }}</p>
+        </div>
+        <div class="card-btns">
+          <ion-button fill="outline" (click)= addToCart(verdura) expand="block"><ion-icon name="cart-outline"></ion-icon></ion-button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</ion-content>

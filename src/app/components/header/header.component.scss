@@ -1,0 +1,57 @@
+/* ion-icon{
+    width: 20px;
+    height: 20px;
+}
+
+#notificaciones-icono{
+    margin-left: 20px;
+}
+
+#carrito-icono{
+    margin-right: 20px;
+}
+*/
+
+img {
+    width: 120px;
+    height: 28px;
+}
+
+ion-header,
+ion-toolbar{
+    height: 85px;
+    color: white;
+}
+
+.md ion-icon,
+.md ion-title{
+    margin-top: 10px;
+}
+
+.md ion-searchbar{
+    margin-top: -30px;
+    z-index: 20000;
+    color: black;
+}
+
+.ios ion-searchbar{
+    margin-top: 0px;
+    box-shadow: 0px 11px 9px -3px rgba(0,0,0,0.21);
+}
+
+.ios img{
+    margin-top: 15px;
+}
+
+.ios ion-header,
+.ios ion-toolbar{
+    height: 45px;
+}
+
+.ios ion-searchbar{
+    background: white;
+}
+
+.header-ios ion-toolbar:last-of-type {
+    --border-width: 0;
+}

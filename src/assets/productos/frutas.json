@@ -1,0 +1,218 @@
+[
+    {
+        "nombre": "Ciruela",
+        "precioDisplay": 65,
+        "precioVariable": 65,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.36PM.jpg?v=1608854078"
+    },
+    {
+        "nombre": "Durzano",
+        "precioDisplay": 88,
+        "precioVariable": 88,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.37PM.jpg?v=1608854125"
+    },
+    {
+        "nombre": "Fresa",
+        "precioDisplay": 119,
+        "precioVariable": 119,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.39PM.jpg?v=1608854232"
+    },
+    {
+        "nombre": "Guayaba",
+        "precioDisplay": 31.25,
+        "precioVariable": 31.25,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at11.23.52AM.jpg?v=1608832554"
+    },
+    {
+        "nombre": "Jicama",
+        "precioDisplay": 35,
+        "precioVariable": 35,
+        "color": "",
+        "tiempo": "",
+        "unidad": "pieza",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.48PM_1.jpg?v=1608854324"
+    },
+    {
+        "nombre": "Kiwi",
+        "precioDisplay": 88,
+        "precioVariable": 88,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2021-01-12at10.52.33PM.jpg?v=1610652222"
+    },
+    {
+        "nombre": "Mamey",
+        "precioDisplay": 39,
+        "precioVariable": 39,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.53PM.jpg?v=1608854460"
+    },
+    {
+        "nombre": "Manzana Gala",
+        "precioDisplay": 54,
+        "precioVariable": 54,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at11.30.46AM.jpg?v=1608832730"
+    },
+    {
+        "nombre": "Manzana Golden",
+        "precioDisplay": 45,
+        "precioVariable": 45,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.40PM.jpg?v=1608854495"
+    },
+    {
+        "nombre": "Manzana Granny",
+        "precioDisplay": 54,
+        "precioVariable": 54,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.55PM.jpg?v=1608854517"
+    },
+    {
+        "nombre": "Manzana Roja",
+        "precioDisplay": 44,
+        "precioVariable": 44,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.56PM.jpg?v=1608854539"
+    },
+    {
+        "nombre": "Melon",
+        "precioDisplay": 38.90,
+        "precioVariable": 38.90,
+        "color": "",
+        "tiempo": "",
+        "unidad": "pieza",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.57PM.jpg?v=1608854564"
+    },
+    {
+        "nombre": "Naranja Verde",
+        "precioDisplay": 12,
+        "precioVariable": 12,
+        "color": "",
+        "tiempo": "",
+        "unidad": "pieza",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.57PM_1.jpg?v=1608854586"
+    },
+    {
+        "nombre": "Papaya",
+        "precioDisplay": 52,
+        "precioVariable": 52,
+        "color": "",
+        "tiempo": "Mismo dia",
+        "unidad": "pieza",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.00PM.jpg?v=1608854642"
+    },
+    {
+        "nombre": "Pera",
+        "precioDisplay": 48,
+        "precioVariable": 48,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.01PM.jpg?v=1608854679"
+    },
+    {
+        "nombre": "Piña Miel",
+        "precioDisplay": 37.70,
+        "precioVariable": 37.70,
+        "color": "",
+        "tiempo": "",
+        "unidad": "pieza",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at11.30.52AM.jpg?v=1608832801"
+    },
+    {
+        "nombre": "Platano",
+        "precioDisplay": 18.90,
+        "precioVariable": 18.90,
+        "color": "Verde",
+        "tiempo": "",
+        "unidad": "penca",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.07PM.jpg?v=1608854826"
+    },
+    {
+        "nombre": "Platano Dominico",
+        "precioDisplay": 22.50,
+        "precioVariable": 22.50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "penca",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2021-01-12at10.52.36PM.jpg?v=1610652137"
+    },
+    {
+        "nombre": "Platano Macho",
+        "precioDisplay": 11,
+        "precioVariable": 11,
+        "color": "Verde",
+        "tiempo": "",
+        "unidad": "pieza",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.26.53PM_1.jpg?v=1608854857"
+    },
+    {
+        "nombre": "Sandia",
+        "precioDisplay": 67,
+        "precioVariable": 67,
+        "color": "",
+        "tiempo": "",
+        "unidad": "pieza",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.09PM.jpg?v=1608854891"
+    },
+    {
+        "nombre": "Tamarindo",
+        "precioDisplay": 61,
+        "precioVariable": 61,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.11PM.jpg?v=1608854929"
+    },
+    {
+        "nombre": "Toronja",
+        "precioDisplay": 19,
+        "precioVariable": 19,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.12PM.jpg?v=1608854954"
+    },
+    {
+        "nombre": "Uva Blanca",
+        "precioDisplay": 84,
+        "precioVariable": 84,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.13PM.jpg?v=1608854969"
+    },
+    {
+        "nombre": "Uva Roja",
+        "precioDisplay": 85,
+        "precioVariable": 85,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/WhatsAppImage2020-12-24at12.27.12PM_1.jpg?v=1608854985"
+    }
+]

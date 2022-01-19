@@ -1,0 +1,7 @@
+{
+  "name": "Mercado Makoa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,164 @@
+[
+    {
+        "nombre": "Manteca",
+        "precioDisplay": 50,
+        "precioVariable": 50,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_07ea4bbe-aa92-4133-8d75-2d7b77f6ae3f.png?v=1630355119"
+    },
+    {
+        "nombre": "Chicarrón Prensado",
+        "precioDisplay": 69,
+        "precioVariable": 69,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_49e30d8e-1705-4d14-a72e-4c875640c0ff.png?v=1630354952"
+    },
+    {
+        "nombre": "Tocino",
+        "precioDisplay": 138,
+        "precioVariable": 138,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_5f1cea25-e91e-48b0-973b-5fba800bacfc.png?v=1630354765"
+    },
+    {
+        "nombre": "Longaniza Lomo",
+        "precioDisplay": 81,
+        "precioVariable": 81,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_ed833c46-1d84-43b1-967d-9bbe882fac36.png?v=1630355089"
+    },
+    {
+        "nombre": "Espinazo",
+        "precioDisplay": 106,
+        "precioVariable": 106,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_ac09605d-11b7-4e89-b75a-911e3e4f05e3.png?v=1630355048"
+    },
+    {
+        "nombre": "Molida de Cerdo",
+        "precioDisplay": 123,
+        "precioVariable": 123,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_c87264b6-5c27-48f7-a02d-1cb825139236.png?v=1630354796"
+    },
+    {
+        "nombre": "Bistec de Cerdo",
+        "precioDisplay": 123,
+        "precioVariable": 123,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_4dc9b896-c154-4282-a0c7-060a1a23f46e.jpg?v=1630354916"
+    },
+    {
+        "nombre": "Longaniza Verde",
+        "precioDisplay": 125,
+        "precioVariable": 125,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_d3867776-c810-485d-9b90-55064af8673a.png?v=1630355637"
+    },
+    {
+        "nombre": "Chistorra",
+        "precioDisplay": 125,
+        "precioVariable": 125,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/chistorra.png?v=1630381896"
+    },
+    {
+        "nombre": "Chorizo Argentino",
+        "precioDisplay": 169,
+        "precioVariable": 169,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_fc65fa8b-4cb1-4517-8683-49be56c89c3b.png?v=1630355359"
+    },
+    {
+        "nombre": "T-Bone",
+        "precioDisplay": 169,
+        "precioVariable": 169,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_aa4f8371-3c40-4f77-bd5b-2fa9160b6044.png?v=1630356650"
+    },
+    {
+        "nombre": "Cowboy",
+        "precioDisplay": 350,
+        "precioVariable": 350,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_83057698-4dcd-4dba-a30c-64d240376416.png?v=1630355485"
+    },
+    {
+        "nombre": "Porter House",
+        "precioDisplay": 350,
+        "precioVariable": 350,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_5089c142-deab-4622-a4d4-d50ed03bfd59.png?v=1630356540"
+    },
+    {
+        "nombre": "Top Sirloin",
+        "precioDisplay": 350,
+        "precioVariable": 350,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_01b79364-5b07-400e-b054-c0fd52e725d9.png?v=1630356710"
+    },
+    {
+        "nombre": "Short Rib",
+        "precioDisplay": 350,
+        "precioVariable": 350,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_652c570b-88d4-4dc7-8194-f9ec13f20d8f.png?v=1630356597"
+    },
+    {
+        "nombre": "New York",
+        "precioDisplay": 350,
+        "precioVariable": 350,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_20746ea4-596f-48f8-bb7d-9e4fac639cbd.png?v=1630356525"
+    },
+    {
+        "nombre": "Cabreria",
+        "precioDisplay": 350,
+        "precioVariable": 350,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_fc000d7a-6cd9-49dc-a50f-b71947d67523.png?v=1630355306"
+    }, 
+    {
+        "nombre": "Tomahawk",
+        "precioDisplay": 375,
+        "precioVariable": 375,
+        "color": "",
+        "tiempo": "",
+        "unidad": "kg",
+        "img": "https://cdn.shopify.com/s/files/1/0492/1989/5463/products/image_0857bf00-25a4-424d-9aff-4b4fc8f29a20.png?v=1630356679"
+    }
+]

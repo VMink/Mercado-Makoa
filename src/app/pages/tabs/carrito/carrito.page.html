@@ -1,0 +1,68 @@
+<ion-header>
+  <ion-toolbar color="primary">
+
+    <ion-title class="ion-text-center">Carrito</ion-title>
+
+  </ion-toolbar>
+
+</ion-header>
+
+<ion-content>
+
+  <div *ngIf="cart.length == 0; else elseBlock" id="container-carrito">
+      <img src="assets/img/anadir-al-carrito.svg">
+      <h1 >¡SU CARRITO ESTA VACIO!</h1>
+      <p>Por favor agregue productos a su carrito para poder procesar su orden.</p>
+  </div>
+  
+  <ng-template #elseBlock>
+      <form name="carrito" #carritoForm="ngForm" novalidate>
+          <div id="container-products">
+              <div *ngFor="let p of cart; let i = index" id="cart-card">
+                  <div id="cart-card-img" style.background-image="url({{ p.img }})"></div>
+                  <div id="cart-card-content">
+                      <h1> {{ p.nombre }} </h1>
+                      <h2>Traido de granjas organicas</h2>
+                      <p>$ {{ p.precioDisplay }} / {{ p.unidad }}</p>
+                      <div *ngIf="p.color != ''" #elseColor>
+                          <ion-label>Seleccione el color</ion-label>
+                          <ion-select placeholder="Color" [(ngModel)]="p.color" name="color{{i}}">
+                              <ion-select-option value="Verde">Verde</ion-select-option>
+                              <ion-select-option value="Amarillo">Amarillo</ion-select-option>
+                          </ion-select>
+                      </div>
+                      <div *ngIf="p.tiempo != ''" #elseColor>
+                          <ion-label>Seleccione el color</ion-label>
+                          <ion-select placeholder="Tiempo" [(ngModel)]="p.tiempo" name="tiempo{{i}}">
+                              <ion-select-option value="Hoy">Hoy</ion-select-option>
+                              <ion-select-option value="1-3 Días">1-3 Días</ion-select-option>
+                              <ion-select-option value="3-5 Días">3-5 Días</ion-select-option>
+                          </ion-select>
+                      </div>
+                      <ion-label>Seleccione la cantidad</ion-label>
+                      <div id="container-input">
+                          <div><ion-input [(ngModel)]="p.quantity" placeholder="0" type="number" (ngModelChange)="getTotal()" name="{{i}}" required></ion-input></div>
+                          <div><p>{{ p.unidad }}</p></div>
+                      </div> 
+                  </div>
+                  <div id="card-end">
+                      <ion-icon name="close" color="primary" (click)="removeProduct(p)"></ion-icon>
+                      <h1 *ngIf="p.quantity > 0; else elseH1">Total: ${{ getSubtotal(p.precioVariable, p.quantity) }}</h1>
+                      <ng-template #elseH1><h1>Total: $0</h1></ng-template>
+                  </div>
+              </div>
+          </div>
+          <div id="container-total">
+              <div id="total-line"></div>
+              <div id="total">
+                  <h1>Total</h1>
+                  <h1 *ngIf="total > 0; else elseTotal">${{ getTotal() }}</h1>
+                  <ng-template #elseTotal><h1>$ 0</h1></ng-template>
+              </div>
+          </div>
+          <div><ion-button expand="block" [routerLink]="['/pago']" type="submit" [disabled]="!carritoForm.valid">Realizar Pedido</ion-button></div>
+      </form>
+  </ng-template>
+</ion-content>
+
+

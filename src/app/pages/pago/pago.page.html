@@ -1,0 +1,72 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title >Checkout</ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content>
+
+  <form [formGroup]="orden" (ngSubmit)="enviarOrden()" novalidate>
+
+    <ion-list>
+  
+      <ion-item>  
+        <ion-label position="floating" for="nombre">Nombre</ion-label>
+        <ion-input color="primary" type="text" name="nombre" formControlName="nombre" required></ion-input>
+      </ion-item>
+      <ion-item>  
+        <ion-label position="floating" for="apellido">Apellido</ion-label>
+        <ion-input color="primary"  type="text" name="apellido" formControlName="apellido" required></ion-input>
+      </ion-item>
+      <ion-item>      
+        <ion-label position="floating" for="correo">Correo Electrónico</ion-label>
+        <ion-input color="primary"  type="mail" name="correo" formControlName="correo" required></ion-input>
+      </ion-item>
+      <ion-item>    
+        <ion-label position="floating" for="telefono">Teléfono</ion-label>
+        <ion-input color="primary"  type="tel" name="telefono" formControlName="telefono" required></ion-input>
+      </ion-item>
+      <ion-item>    
+        <ion-label position="floating" for="direccion">Dirección</ion-label>
+        <ion-input color="primary"  type="text" name="direccion" formControlName="direccion" required></ion-input>
+      </ion-item>
+      <ion-item>    
+        <ion-label position="floating" for="codigoPostal">Código Postal</ion-label>
+        <ion-input color="primary"  type="number" name="codigoPostal" formControlName="codigoPostal" required></ion-input>
+      </ion-item>
+      <ion-item>    
+        <ion-label position="floating" for="detalles">Detalles extras para el pedido</ion-label>
+        <ion-textarea color="primary" rows="10" type="text" name="detalles" formControlName="detalles"></ion-textarea>  
+      </ion-item>
+
+    </ion-list>
+
+    <div id="titulo-orden">
+      <h1>Su pedido</h1>
+      <h2>Método de pago: efectivo</h2>
+    </div>
+
+    <div class="orden">
+      <div *ngFor="let p of cart; let i = index">
+        <div class="producto-orden">
+          <div class="producto-left">
+            <h4>{{p.nombre}} {{p.quantity}} x {{p.unidad}}</h4>
+          </div>
+          <div id="subtotal">
+            <h4>${{getSubtotal(p.precioVariable, p.quantity)}}</h4>
+          </div>
+        </div>
+      </div>
+      <div id="total">
+        <h1>Total</h1>
+        <h1>${{ getTotal() }}</h1>
+      </div>
+    </div>
+
+    <ion-button expand="block" [routerLink]="['/']" type="submit" [disabled]="!orden.valid" (click)="presentAlert()">Realizar Pedido</ion-button>
+
+  </form>
+
+</ion-content>
